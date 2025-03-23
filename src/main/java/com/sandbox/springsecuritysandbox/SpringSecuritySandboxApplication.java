@@ -9,5 +9,4 @@ public class SpringSecuritySandboxApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringSecuritySandboxApplication.class, args);
     }
-
 }
